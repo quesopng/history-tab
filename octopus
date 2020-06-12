@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <style>
+  h1{
+    color: rgb(173, 216, 230);
+  font-size: 100px;
+  line-height: 80px;
+  font-spacing: 50px;
+  font-family: 'Karla', sans-serif;
+  text-align: center;
+  font-weight: 100px;
+  margin: auto;
+  padding: 20px 10px;
+  max-width: 700px;
+  max-height: 300px;
+}
+h2{
+  color: rgb(173, 230, 187);
+   font-size: 30px;
+   line-height: 30px;
+   font-family: 'Karla', sans-serif;
+   text-align: center;
+   font-weight: 75px;
+   font-style: bold;
+   margin: auto;
+   padding: 50px 10px;
+   max-width: 700px;
+   max-height: 100px;
+}
+h4{
+   font-family: 'Karla', sans-serif;
+  text-align: center;
+  background-color: #e6d8ae;
+  padding: 10px;
+  margin: 10px auto;
+  min-width: 100px;
+  max-width: 100px;
+}
+  </style>
+  <head>
+  <h1>Welcome to the History page!</h1>
+  </head>
+<body>
+<h2>Below we have a list of subtopics that each contain 67 useless facts.</h2> 
+<h4>American History</h4>
+<h4>European History</h4>
+<h4>Asian History</h4>
+<h4>Middle Eastern History</h4>
+<h4>African History</h4>
+<h4>Presidents</h4>
+<h4>Latin American History</h4>
+<h4>Wartime History</h4>
+</body>
+</html>
